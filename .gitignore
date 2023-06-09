@@ -1,0 +1,3 @@
+# cache toutes les images
+/__pycache__/
+*.jpg 
